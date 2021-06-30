@@ -82,6 +82,14 @@ img {
 }
 
 /*========== NAV ==========*/
+.logo{
+  font-size: 30px;
+  font-weight: 900;
+}
+strong{
+  color: #5B7B78;
+  font-size: 26px;
+}
 .nav {
   max-width: 968px;
   height: var(--header-height);
